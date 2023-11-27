@@ -1,0 +1,16 @@
+name: com.configreality.creal
+displayName: CReal Unity SDK
+description: CReal Unity SDK
+repoUrl: https://github.com/ConfigRealitySys/CRealUnitySDK
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+image: ''
+topics:
+  - ar-and-vr
+hunter: Configreality
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: main:README.md
+createdAt: 1701052127115
